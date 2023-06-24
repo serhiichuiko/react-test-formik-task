@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-test-formik-task/static/css/main.a2658525.css",
+    "main.js": "/react-test-formik-task/static/js/main.df11ded4.js",
+    "index.html": "/react-test-formik-task/index.html",
+    "main.a2658525.css.map": "/react-test-formik-task/static/css/main.a2658525.css.map",
+    "main.df11ded4.js.map": "/react-test-formik-task/static/js/main.df11ded4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2658525.css",
+    "static/js/main.df11ded4.js"
+  ]
+}
