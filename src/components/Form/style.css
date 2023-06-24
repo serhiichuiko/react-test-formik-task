@@ -1,0 +1,23 @@
+.form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.field {
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.submit-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: blue;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    margin-top: 5px;
+}
